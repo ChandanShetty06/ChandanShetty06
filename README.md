@@ -110,20 +110,6 @@ Analyzed sales performance and business trends using interactive Excel visualiza
 
 ---
 
-### 📑 04. Excel Sales Analysis
-
-Performed sales data analysis and developed visual reports to present business information.
-
-**Tools:** Excel | Data Analysis
-
-<a href="https://github.com/ChandanShetty06/Excel-Sales-Dashboard-Project">
-  <img src="PROJECT_SCREENSHOT_EXCEL" width="100%" alt="Excel Sales Analysis Preview" />
-</a>
-
-[🔗 View Project Repository](https://github.com/ChandanShetty06/Excel-Sales-Dashboard-Project)
-
----
-
 ## 🟢 04. GITHUB STATISTICS
 
 <div align="center">
