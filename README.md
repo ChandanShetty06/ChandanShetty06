@@ -106,7 +106,7 @@ Analyzed sales performance and business trends using interactive Excel visualiza
   <img src="PROJECT_SCREENSHOT_SALES" width="100%" alt="Sales Dashboard Preview" />
 </a>
 
-[🔗 View Project Repository](https://github.com/ChandanShetty06/Sales-dashboard)
+[🔗 View Project Repository](https://github.com/ChandanShetty06/Excel-Sales-Dashboard-Project)
 
 ---
 
